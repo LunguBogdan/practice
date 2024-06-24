@@ -1,9 +1,9 @@
 {
     "variables": {
-      "client_id": "54c1e233-a2a4-462a-9250-6b817105728d",
-      "client_secret": "wmu8Q~u4I2gRDp34mCyRru5Sl33zicwvZc_cPaHr",
-      "tenant_id": "f5f251f4-fdd3-4d9c-9018-14a99e31a30f",
-      "subscription_id": "db7f3ffa-7047-467e-be67-d29b9a1bf2d8",
+      "client_id": "",
+      "client_secret": "",
+      "tenant_id": "",
+      "subscription_id": "",
       "resource_group": "myResourceGroup",
       "location": "Germany West Central",
       "source_image": "prerequisites-image"

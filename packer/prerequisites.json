@@ -2,10 +2,10 @@
   "builders": [
     {
       "type": "azure-arm",
-      "client_id": "2ea7c3a4-abaa-4bef-83cc-da888a28477a",
-      "client_secret": "WTY8Q~kqC6VJVvi9Y0ZoRUlWq-CNd3LOeHCBbbb3",
-      "subscription_id": "db7f3ffa-7047-467e-be67-d29b9a1bf2d8",
-      "tenant_id": "f5f251f4-fdd3-4d9c-9018-14a99e31a30f",
+      "client_id": "",
+      "client_secret": "",
+      "subscription_id": "",
+      "tenant_id": "",
 
       "managed_image_resource_group_name": "myResourceGroup",
       "managed_image_name": "PrerequisiteLayerImage",
