@@ -7,6 +7,7 @@
         "tenant_id": "",
         "subscription_id": "",
         "managed_image_resource_group_name": "myResourceGroup",
+        "build_resource_group_name": "myResourceGroup",
         "managed_image_name": "myCustomImage",
         "os_type": "Windows",
         "image_publisher": "MicrosoftWindowsServer",
@@ -17,7 +18,7 @@
         "winrm_insecure": true,
         "winrm_timeout": "1h",
         "winrm_username": "packer",
-        "winrm_password": "{{your_winrm_password}}"
+        "winrm_password": "Packer01"
       }
     ],
     "provisioners": [
